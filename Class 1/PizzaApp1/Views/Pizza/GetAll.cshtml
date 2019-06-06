@@ -1,7 +1,6 @@
-﻿@model System.Collections.Generic.List<string>
+﻿
 @{
     Layout = null;
-    
 }
 
 <!DOCTYPE html>
@@ -12,11 +11,16 @@
     <title>GetAll</title>
 </head>
 <body>
-   
+    @{ 
+        var listOfPizzas = new List<string>
+        {
+            "capri", "tono", "margarita", "vegetariana"
+        };
+    }
     <h1>All pizzas:</h1>
-    <h3>There are @Model.Count pizzas in total:</h3>
+    <h3>There are @listOfPizzas.Count pizzas in total:</h3>
     <ul>
-        @foreach (var item in Model)
+        @foreach (var item in listOfPizzas)
         {
             <li>@item</li>
         }

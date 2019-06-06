@@ -63,7 +63,7 @@ using PizzaApp1.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(58, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "30b4d4056465403f8e089d6a5d269a0b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f91c3d7d3c4a430fb3b09d1c30401ced", async() => {
                 BeginContext(64, 88, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>GetAll</title>\r\n");
                 EndContext();
@@ -83,7 +83,7 @@ using PizzaApp1.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(161, 93, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "95bd9f004fd4408e9c883bab863b69bc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "727e21b62506469e94d5c3aaadf4a933", async() => {
                 BeginContext(167, 40, true);
                 WriteLiteral("\r\n    <p>What time is it? ;)</p>\r\n\r\n    ");
                 EndContext();

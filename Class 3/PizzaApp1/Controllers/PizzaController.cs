@@ -10,7 +10,15 @@ namespace PizzaApp1.Controllers
     {
         public IActionResult GetAll()
         {
-            return View();
+            var pizzas = new List<string>
+            {
+                "capri", "tono", "margarita", "vegetariana"
+            };
+            //ViewBag.pizzas = listOfPizzas;
+            //ViewData["pizzas"] = listOfPizzas;
+
+            ViewBag.users = 1;
+            return View(pizzas);
         }
     }
 }
