@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\PizzaApp1\\PizzaApp1\\PizzaApp1.csproj",
+      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\Class 3\\PizzaApp1\\PizzaApp1.csproj",
       "projectName": "PizzaApp1",
-      "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\PizzaApp1\\PizzaApp1\\PizzaApp1.csproj",
+      "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\Class 3\\PizzaApp1\\PizzaApp1.csproj",
       "packagesPath": "C:\\Users\\marija.rumenovska\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\PizzaApp1\\PizzaApp1\\obj\\",
+      "outputPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\Class 3\\PizzaApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

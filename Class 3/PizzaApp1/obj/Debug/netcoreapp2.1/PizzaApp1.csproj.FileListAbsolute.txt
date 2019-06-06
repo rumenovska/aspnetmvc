@@ -32,3 +32,38 @@ C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaApp1\PizzaApp1\obj\Debug
 C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaApp1\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.csproj.CopyComplete
 C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaApp1\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Home\IsItChristmas.g.cshtml.cs
 C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaApp1\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\GetAll.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.runtimeconfig.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.runtimeconfig.dev.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.Views.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\bin\Debug\netcoreapp2.1\PizzaApp1.Views.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.RazorAssemblyInfo.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.RazorAssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.TagHelpers.input.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.TagHelpers.output.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.RazorCoreGenerate.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Home\IsItChristmas.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\GetAll.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.RazorTargetAssemblyInfo.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.RazorTargetAssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.Views.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\PizzaApp1.csproj.CopyComplete
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\Class 3\PizzaApp1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_NavMenuPartial.g.cshtml.cs
