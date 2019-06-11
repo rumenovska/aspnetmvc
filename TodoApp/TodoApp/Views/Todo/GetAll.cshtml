@@ -1,0 +1,42 @@
+﻿@model List<Todo>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <environment include="Development">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <title>GetAll</title>
+</head>
+<body>
+    
+    @if(System.DateTime.Now.Date == new DateTime(day: 11, month: 6, year: 2019))
+    {
+        <p>Yeah Is Kamehameha Day Enjoy No Todo's Today ;) !!!</p>
+    }
+    else
+    {
+        <h1>Todo List</h1>
+        <ul>
+            @{ foreach (var item in Model)
+                {
+                    <li>@item.Title, @item.Dectription, @item.DueDate</li>
+
+                }}
+        </ul>
+    }
+
+    <a asp-area="" asp-controller="Todo" asp-action="GetAll" class="btn btn-primary">All</a>
+    <a asp-area="" asp-controller="Todo" asp-action="Yesterday" class="btn btn-primary">Yesterday</a>
+    <a asp-area="" asp-controller="Todo" asp-action="Tomorrow" class="btn btn-primary">Tomorrow</a>
+    <a asp-area="" asp-controller="Todo" asp-action="Today" class="btn btn-primary">Today</a>
+
+
+</body>
+</html>

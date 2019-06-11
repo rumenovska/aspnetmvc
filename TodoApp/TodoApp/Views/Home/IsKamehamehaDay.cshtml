@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IsKamehamehaDay</title>
+</head>
+<body>
+    <h1>Is it Kamehameha Day?</h1>
+   
+    @{ if(System.DateTime.Now.Date == new DateTime(day: 11, month: 6, year: 2019))
+        {
+            <p>Yea Is Kamehameha Day :) !!!</p>
+        }
+        else
+        {
+            <p>Is not!!!</p>
+        }
+    }
+</body>
+</html>
