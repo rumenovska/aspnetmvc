@@ -1,0 +1,62 @@
+﻿@model ClassFive.Models.Beer
+@{
+    ViewData["Title"] = "AddBeer";
+    var beerSizes = new SelectList(new[]
+    {
+        "0.33l",
+        "0.5l",
+        "0.7l",
+        "1l"
+    });
+
+    var beerTypes = new SelectList(new[]
+    {
+        "lager",
+        "pilsner",
+        "ipa"
+        
+    });
+}
+
+<h2>AddBeer</h2>
+<form asp-action="AddBeer" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color: red;"></span>
+
+    </div>
+    <div>
+
+        <label asp-for="Dectription"></label>
+        <input asp-for="Dectription" />
+        <span asp-validation-for="Dectription" style="color: red;"></span>
+    </div>
+    <div>
+        <label asp-for="Size"></label>
+        <select asp-for="Size" asp-items="beerSizes"></select>
+        <span asp-validation-for="Size" style="color: red;"></span>
+    </div>
+    <div>
+        <label asp-for="Type"></label>
+        <select asp-for="Type" asp-items="beerTypes"></select>
+        <span asp-validation-for="Type" style="color: red;"></span>
+
+    </div>
+    <div>
+        <label asp-for="IsGlutenFree"></label>
+        <input asp-for="IsGlutenFree" />
+        <span asp-validation-for="IsGlutenFree" style="color: red;"></span>
+    </div>
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" />
+        <span asp-validation-for="Price" style="color: red;"></span>
+    </div>
+
+    <input type="submit" value="Save"/>
+</form>
+@if(ViewBag.Message != null)
+{
+    <div>@ViewBag.Message</div>
+}

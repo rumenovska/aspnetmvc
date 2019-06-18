@@ -1,0 +1,58 @@
+﻿@model ClassFive.Models.Beer
+@{
+    ViewData["Title"] = "EditBeer";
+    var beerSizes = new SelectList(new[]
+{
+"0.33l",
+"0.5l",
+"0.7l",
+"1l"
+});
+
+    var beerTypes = new SelectList(new[]
+    {
+"lager",
+"pilsner",
+"ipa"
+
+});
+}
+
+<h2>EditBeer</h2>
+<form asp-action="EditBeer" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color: red;"></span>
+
+    </div>
+    <div>
+        <label asp-for="Dectription"></label>
+        <input asp-for="Dectription" />
+        <span asp-validation-for="Dectription" style="color: red;"></span>
+    </div>
+    <div>
+        <label asp-for="Size"></label>
+        <select asp-for="Size" asp-items="beerSizes"></select>
+    </div>
+    <div>
+        <label asp-for="Type"></label>
+        <select asp-for="Type" asp-items="beerTypes"></select>
+
+    </div>
+    <div>
+        <label asp-for="IsGlutenFree"></label>
+        <input asp-for="IsGlutenFree" />
+    </div>
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" />
+    </div>
+
+    <input type="submit" value="Save" />
+</form>
+@if (ViewBag.Message != null)
+{
+    <div>@ViewBag.Message</div>
+}
+
