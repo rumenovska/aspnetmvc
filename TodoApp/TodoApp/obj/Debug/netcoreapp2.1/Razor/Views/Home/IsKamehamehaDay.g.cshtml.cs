@@ -63,7 +63,7 @@ using TodoApp.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(63, 110, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1a21fce8f92a49a4bd0ceb1d313273d6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5ba3528d33eb4b6f9ecfe70dc5bba03f", async() => {
                 BeginContext(69, 97, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>IsKamehamehaDay</title>\r\n");
                 EndContext();
@@ -83,7 +83,7 @@ using TodoApp.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(175, 284, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "814593d6940d4943b138e89eaf6bf72f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba6b99428d1947968781a03f09c5a501", async() => {
                 BeginContext(181, 43, true);
                 WriteLiteral("\r\n    <h1>Is it Kamehameha Day?</h1>\r\n   \r\n");
                 EndContext();
