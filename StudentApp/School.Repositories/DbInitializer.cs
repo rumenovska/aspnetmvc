@@ -1,18 +1,18 @@
-﻿using StudentApp.Models;
+﻿using School.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StudentApp.Data
+namespace School.Repositories
 {
     public static class DbInitializer
     {
-        public static void Initialize(SchoolContex contex)
+        public static void Initialize(SchoolContext context)
         {
-            contex.Database.EnsureCreated();
+            context.Database.EnsureCreated();
 
-            if (contex.Students.Any())
+            if (context.Students.Any())
                 return;
             var students = new Student[]
             {
@@ -25,7 +25,7 @@ namespace StudentApp.Data
             };
             foreach (var student in students)
             {
-                contex.Students.Add(student);
+                context.Students.Add(student);
             }
 
             var courses = new Course[]
@@ -36,7 +36,7 @@ namespace StudentApp.Data
             };
             foreach (var course in courses)
             {
-                contex.Courses.Add(course);
+                context.Courses.Add(course);
             }
 
             var enrollments = new Enrollment[]
@@ -58,10 +58,10 @@ namespace StudentApp.Data
 
             foreach (var enroll in enrollments)
             {
-                contex.Enrollments.Add(enroll);
+                context.Enrollments.Add(enroll);
             }
 
-            contex.SaveChanges();
+            context.SaveChanges();
         }
     }
 }

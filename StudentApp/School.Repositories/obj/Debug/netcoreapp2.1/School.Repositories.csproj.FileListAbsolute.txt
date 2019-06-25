@@ -1,0 +1,12 @@
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\bin\Debug\netcoreapp2.1\School.Repositories.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\bin\Debug\netcoreapp2.1\School.Repositories.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\bin\Debug\netcoreapp2.1\School.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\bin\Debug\netcoreapp2.1\School.Entities.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.csproj.CopyComplete
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\bin\Debug\netcoreapp2.1\School.Repositories.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\School.Repositories\obj\Debug\netcoreapp2.1\School.Repositories.pdb

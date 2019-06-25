@@ -1,0 +1,9 @@
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\bin\Debug\netcoreapp2.1\School.Entities.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\bin\Debug\netcoreapp2.1\School.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\bin\Debug\netcoreapp2.1\School.Entities.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\obj\Debug\netcoreapp2.1\School.Entities.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\obj\Debug\netcoreapp2.1\School.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\obj\Debug\netcoreapp2.1\School.Entities.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\obj\Debug\netcoreapp2.1\School.Entities.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\obj\Debug\netcoreapp2.1\School.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\StudentApp\SchoolEntities\obj\Debug\netcoreapp2.1\School.Entities.pdb

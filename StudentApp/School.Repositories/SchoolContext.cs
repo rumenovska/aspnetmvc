@@ -1,16 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using StudentApp.Models;
+using School.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace StudentApp.Data
+namespace School.Repositories
 {
-    public class SchoolContex: DbContext
+    public class SchoolContext: DbContext
 
     {
-        public SchoolContex(DbContextOptions<SchoolContex> options) : base(options)
+        public SchoolContext(DbContextOptions<SchoolContext> options) : base(options)
         {
 
         }

@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using StudentApp.Data;
+using School.Repositories;
 
 namespace StudentApp
 {
@@ -24,12 +24,12 @@ namespace StudentApp
                 var services = scope.ServiceProvider;
                 try
                 {
-                    var contex = services.GetRequiredService<SchoolContex>();
+                    var contex = services.GetRequiredService<SchoolContext>();
                     DbInitializer.Initialize(contex);
                 }
                 catch(Exception ex)
                 {
-                    
+                    Console.WriteLine(ex.Message);
                 }
             }
 
