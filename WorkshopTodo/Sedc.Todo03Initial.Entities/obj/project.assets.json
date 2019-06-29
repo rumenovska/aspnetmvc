@@ -1143,11 +1143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\marija.rumenovska\\source\\repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj",
       "projectName": "Sedc.Todo03Initial.Entities",
-      "projectPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj",
+      "projectPath": "C:\\Users\\marija.rumenovska\\source\\repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj",
       "packagesPath": "C:\\Users\\marija.rumenovska\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Entities\\obj\\",
+      "outputPath": "C:\\Users\\marija.rumenovska\\source\\repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

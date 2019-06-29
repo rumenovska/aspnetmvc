@@ -1,0 +1,16 @@
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo.Services.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo.Services.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo.Services.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.csproj.CopyComplete
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo.Services\obj\Debug\netcoreapp2.1\Sedc.Todo.Services.pdb

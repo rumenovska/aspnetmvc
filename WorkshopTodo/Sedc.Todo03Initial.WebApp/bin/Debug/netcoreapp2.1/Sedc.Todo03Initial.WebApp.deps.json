@@ -28,6 +28,7 @@
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.1",
+          "Sedc.Todo03Initial.Entities": "1.0.0",
           "Sedc.Todo03Initial.Repositories": "1.0.0"
         },
         "runtime": {

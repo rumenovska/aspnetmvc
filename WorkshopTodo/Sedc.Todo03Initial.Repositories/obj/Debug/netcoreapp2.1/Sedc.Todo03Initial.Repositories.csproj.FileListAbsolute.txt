@@ -38,3 +38,17 @@ C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Repositories\obj\Debug\net
 C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.csproj.CopyComplete
 C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.dll
 C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.csproj.CopyComplete
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Repositories\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Repositories.pdb

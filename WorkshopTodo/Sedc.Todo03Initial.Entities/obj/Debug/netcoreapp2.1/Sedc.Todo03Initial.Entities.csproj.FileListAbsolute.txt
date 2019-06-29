@@ -21,3 +21,12 @@ C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Entities\obj\Debug\netcore
 C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.AssemblyInfo.cs
 C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.dll
 C:\Users\marija.rumenovska\Desktop\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\bin\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\WorkshopTodo\Sedc.Todo03Initial.Entities\obj\Debug\netcoreapp2.1\Sedc.Todo03Initial.Entities.pdb

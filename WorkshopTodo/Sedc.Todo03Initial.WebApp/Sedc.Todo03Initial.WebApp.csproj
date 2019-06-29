@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Sedc.Todo03Initial.Entities\Sedc.Todo03Initial.Entities.csproj" />
     <ProjectReference Include="..\Sedc.Todo03Initial.Repositories\Sedc.Todo03Initial.Repositories.csproj" />
   </ItemGroup>
 

@@ -3092,11 +3092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj",
       "projectName": "Sedc.Todo03Initial.Repositories",
-      "projectPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj",
+      "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj",
       "packagesPath": "C:\\Users\\marija.rumenovska\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3115,8 +3115,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj": {
-              "projectPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj"
+            "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj": {
+              "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj"
             }
           }
         }

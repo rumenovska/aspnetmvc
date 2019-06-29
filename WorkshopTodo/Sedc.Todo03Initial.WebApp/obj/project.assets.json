@@ -12370,6 +12370,7 @@
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1",
+      "Sedc.Todo03Initial.Entities >= 1.0.0",
       "Sedc.Todo03Initial.Repositories >= 1.0.0"
     ]
   },
@@ -12380,11 +12381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.WebApp\\Sedc.Todo03Initial.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.WebApp\\Sedc.Todo03Initial.WebApp.csproj",
       "projectName": "Sedc.Todo03Initial.WebApp",
-      "projectPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.WebApp\\Sedc.Todo03Initial.WebApp.csproj",
+      "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.WebApp\\Sedc.Todo03Initial.WebApp.csproj",
       "packagesPath": "C:\\Users\\marija.rumenovska\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12403,8 +12404,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj": {
-              "projectPath": "C:\\Users\\marija.rumenovska\\Desktop\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj"
+            "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj": {
+              "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Entities\\Sedc.Todo03Initial.Entities.csproj"
+            },
+            "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj": {
+              "projectPath": "C:\\Users\\marija.rumenovska\\Source\\Repos\\aspnetmvc2\\WorkshopTodo\\Sedc.Todo03Initial.Repositories\\Sedc.Todo03Initial.Repositories.csproj"
             }
           }
         }

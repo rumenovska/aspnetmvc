@@ -1,0 +1,11 @@
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\bin\Debug\netcoreapp2.1\PizzaConsApp.deps.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\bin\Debug\netcoreapp2.1\PizzaConsApp.runtimeconfig.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\bin\Debug\netcoreapp2.1\PizzaConsApp.runtimeconfig.dev.json
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\bin\Debug\netcoreapp2.1\PizzaConsApp.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\obj\Debug\netcoreapp2.1\PizzaConsApp.csprojAssemblyReference.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\obj\Debug\netcoreapp2.1\PizzaConsApp.csproj.CoreCompileInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\obj\Debug\netcoreapp2.1\PizzaConsApp.AssemblyInfoInputs.cache
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\obj\Debug\netcoreapp2.1\PizzaConsApp.AssemblyInfo.cs
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\bin\Debug\netcoreapp2.1\PizzaConsApp.pdb
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\obj\Debug\netcoreapp2.1\PizzaConsApp.dll
+C:\Users\marija.rumenovska\Source\Repos\aspnetmvc2\PizzaConsApp\PizzaConsApp\obj\Debug\netcoreapp2.1\PizzaConsApp.pdb
